@@ -1,0 +1,17 @@
+location_id,region,country,population,density,area
+101,Northland,New Zealand,201500,16.11,12507.759
+102,Auckland,New Zealand,1695200,343.09,4940.978
+103,Waikato,New Zealand,513800,21.5,23897.674
+104,Bay of Plenty,New Zealand,347700,28.8,12072.917
+105,Gisborne,New Zealand,52100,6.21,8389.694
+106,Hawke's Bay,New Zealand,182700,12.92,14140.867
+107,Taranaki,New Zealand,127300,17.55,7253.561
+108,Manawatū-Whanganui,New Zealand,258200,11.62,22220.31
+109,Wellington,New Zealand,543500,67.52,8049.467
+110,Tasman,New Zealand,58700,6.1,9622.951
+111,Nelson,New Zealand,54500,129.15,421.99
+112,Marlborough,New Zealand,51900,4.94,10506.073
+113,West Coast,New Zealand,32700,1.41,23191.489
+114,Canterbury,New Zealand,655000,14.72,44497.283
+115,Otago,New Zealand,246000,7.89,31178.707
+116,Southland,New Zealand,102400,3.28,31219.512

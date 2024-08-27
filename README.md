@@ -2,7 +2,7 @@
 
 ## **Motor Vehicles Theft Analysis**
 
-This project was accomplished using Python programming language & Microsoft PowerBI (in view). 
+This project was accomplished using Python programming language & Microsoft PowerBI. 
 
 The following was observed during analysis;
 
@@ -24,6 +24,10 @@ The following was observed during analysis;
 - Cars in cluster 0 are the most stolen in the Auckland region
 - Each region has one cluster type
 - There are five regions which cluster 0
+
+PowerBI visuals:
+![powerbi_1](img/Powerbi_page1.png)
+![powerbi_2](img/Powerbi_page2.png)
 
 ### **Conclusion**
 

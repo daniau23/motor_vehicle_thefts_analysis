@@ -29,6 +29,14 @@ PowerBI visuals:
 ![powerbi_1](img/Powerbi_page1.png)
 ![powerbi_2](img/Powerbi_page2.png)
 
+Tableau (visuals):
+Below is some images from the Tableau implementation:
+Desktop view
+![desktop](img/desktop.png)
+
+Samsung Galaxy Tab 10
+![tablet](img/tablet_1.png)
+
 ### **Conclusion**
 
 - Action should be taken to reduce car theft, especially in the month of March

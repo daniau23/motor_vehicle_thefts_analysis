@@ -26,16 +26,27 @@ The following was observed during analysis;
 - There are five regions which cluster 0
 
 PowerBI visuals:
+
 ![powerbi_1](img/Powerbi_page1.png)
 ![powerbi_2](img/Powerbi_page2.png)
 
 Tableau (visuals):
 Below is some images from the Tableau implementation:
+
 Desktop view
 ![desktop](img/desktop.png)
 
 Samsung Galaxy Tab 10
 ![tablet](img/tablet_1.png)
+
+Google Looker visuals:
+
+Page 1
+![Glooker1](img/google_looker_analysis_page_1.png)
+
+Page 2
+![Glooker2](img/google_looker_analysis_page_2.png)
+
 
 ### **Conclusion**
 
